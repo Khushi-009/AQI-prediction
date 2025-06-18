@@ -55,11 +55,11 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/Khushi-009/AQI-prediction.git
+cd AQI-prediction
 ```
 
-*(Replace `your-username/your-repository-name.git` with your actual GitHub repository link)*
+
 
 2. Install Jupyter and project dependencies:
 
@@ -96,7 +96,7 @@ To explore and run the air quality forecasting model:
 
 2. **Open the Notebook:**
    
-   From the Jupyter interface, click on your project's .ipynb file (e.g., `air_quality_forecasting.ipynb`).
+   From the Jupyter interface, click on your project's .ipynb file .
 
 3. **Run the Cells:**
    
@@ -124,11 +124,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 *(You should create a LICENSE file in your repository if you choose the MIT license or any other.)*
 
-## Contact
-
-Your Name - your_email@example.com
-
-Project Link: [https://github.com/your-username/your-repository-name](https://github.com/your-username/your-repository-name)
 
 ## Acknowledgments
 
