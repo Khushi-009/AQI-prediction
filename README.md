@@ -34,7 +34,7 @@ This project implements a machine learning system for forecasting air quality us
 
 ## Output/Results
 
-![Air Quality Forecast Output](path/to/your/output_screenshot.png)
+![Air Quality Forecast Output](https://github.com/Khushi-009/AQI-prediction/blob/989025df01b9f74a7e2a7b24b0f8157907e4b6ed/aqi%20output.png)
 
 ---
 
